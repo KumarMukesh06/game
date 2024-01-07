@@ -1,2 +1,2 @@
 # game
-This is my first project using python code.
+This is my first demo project using python code.
